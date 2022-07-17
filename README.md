@@ -1,4 +1,4 @@
-### Hello, my name is Vlad, you're in my github profile 🏯
+### Hello, my name is Vlad, welcome to my github profile 🏯
 
 Currently studying in [SUAI](https://new.guap.ru/) university on informatics and computer technician program 💻
 
