@@ -4,6 +4,6 @@ Currently studying in [SUAI](https://new.guap.ru/) university on informatics and
 
 #### Major projects:
 
-- 🐍 Multiplayer Snake game on python using pygame
+- 🐍 Multiplayer Snake game on Python using pygame
 - 🎵 Music player on C++ using QT framework
 - 🤖 Arkanoid game on Java using lwjgl (in progress)
