@@ -9,3 +9,4 @@ Currently studying in [SUAI](https://new.guap.ru/) university on informatics and
 - 🎵 Music player on C++ using QT framework
 - 🤖 Arkanoid game on Java using lwjgl
 - 🚀 SUAI repository, which stores all my univercity code
+- 📱 Backend of SUAI onboarding mobile application
