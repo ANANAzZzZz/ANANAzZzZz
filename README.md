@@ -1,6 +1,7 @@
 ### Hello, my name is Vlad, welcome to my github profile 🏯
 
 Currently studying in [SUAI](https://new.guap.ru/) university on informatics and computer technician program 💻
+Love to take part in hackathons very much !
 
 #### Major projects:
 
@@ -9,4 +10,5 @@ Currently studying in [SUAI](https://new.guap.ru/) university on informatics and
 - 🎵 Music player on C++ using QT framework
 - 🤖 Arkanoid game on Java using lwjgl
 - 🚀 SUAI repository, which stores all my univercity code
-- 📱 Backend of SUAI onboarding mobile application
+
+Also I have a lot of hackathone backend cases on stack Java/Spring Boot, Python/Flask
