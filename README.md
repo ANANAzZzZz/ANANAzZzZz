@@ -1,8 +1,9 @@
-### Hello, my name is Vlad, welcome to my github profile 🏯
+## Hello, my name is Vlad, welcome to my github profile 🏯
 
-Currently studying in [SUAI](https://new.guap.ru/) university on informatics and computer technician program 💻 
-
-Love to take part in hackathons very much !
+### Brief introduction
+* Student of [SUAI](https://new.guap.ru/) university on informatics and computer technician program  since 2021 🎓  
+* Employee of [Sberbank of Russia](http://www.sberbank.ru/) since August 2024 as Java Developer 💻
+* Fan of active recreation and gym 🏞️
 
 #### Major projects:
 
@@ -11,5 +12,4 @@ Love to take part in hackathons very much !
 - 🎵 Music player on C++ using QT framework
 - 🤖 Arkanoid game on Java using lwjgl
 - 🚀 SUAI repository, which stores all my univercity code
-
-Also I have a lot of hackathone backend cases on stack Java/Spring Boot, Python/Flask
+- plenty of hackathone backend cases on stack Java/Spring Boot, Python/Flask
