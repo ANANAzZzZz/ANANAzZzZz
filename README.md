@@ -1,6 +1,6 @@
 ## Hello, my name is Vlad, welcome to my github profile 🏯
 ### Brief introduction
-* 🎓 Student of [SUAI](https://new.guap.ru/) university on informatics and computer technician program  since 2021
+* 🎓 Bachelor of [SUAI](https://new.guap.ru/) university on informatics and computer technician program (2025)
 * 💻 Employee of [Sberbank of Russia](http://www.sberbank.ru/) since August 2024 as Java Developer
 * 🏞️ Fan of active recreation and gym
 * ⚡ Experienced hackathone patricipant
