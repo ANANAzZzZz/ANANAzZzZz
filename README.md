@@ -6,5 +6,6 @@
 * 🏞️ Fan of active recreation and gym
 * ⚡ Experienced hackathone patricipant
 * 🌍 [Awardee](https://github.com/ANANAzZzZz/LCTMoscowHack) of one of the biggest [hackathones](https://i.moscow/lct) in the world
+* 🧑‍💻 Member of the [St. Petersburg team for sports programming](https://fsp-russia.ru/) in the field of product development
 
 You can contact me via [Telegram](https://t.me/svrvlad) or [Mail](syvorotnevv@mail.ru)
